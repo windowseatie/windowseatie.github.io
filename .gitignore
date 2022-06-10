@@ -5,9 +5,12 @@
 /.vscode
 node_modules
 .env
+gh-pages
+gh-pages.pub
 
 # Build
 _site
+docs
 
 # Temporary/Cache
 .cache/
