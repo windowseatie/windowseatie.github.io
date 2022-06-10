@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://windowseatie.github.io/sitemap.xml
+Host: https://windowseatie.github.io
