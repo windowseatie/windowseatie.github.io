@@ -1,0 +1,10 @@
+---
+layout: base
+---
+
+<article class="container my-6">
+    {% if title %}
+        <h1>{{ title }}</h1>
+    {% endif %}
+    {{ content | safe }}
+</article>
