@@ -19,16 +19,22 @@ style: {
         {% if title %}
             <h1 class="my-0">{{ title }}</h1>
         {% endif %}
-        <time datetime="{{ page.date | toISOString }}">
-            {{ page.date | formatDate('DD MMMM YYYY') }}
+        <time datetime="{{ lastUpdated | toISOString }}">
+            {{ lastUpdated | formatDate('DD MMMM YYYY') }}
         </time>
+        <p>Return ticket cost: €{{ costReturn }} ; Time taken one way: {{ timeTaken }}</p>
+       
+        {%- if seat61Link %}
+            <a href ="{{ seat61Link }}">Check out the equivalent directions from the UK on Seat61</a>
+        {%- endif %}
+
     </div>
 
     {{ content | safe }}
 
-    {%- if collections.posts %}
-        {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-        {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+    {%- if collections.destinations %}
+        {%- set nextPost = collections.destinations | getNextCollectionItem(page) %}
+        {%- set previousPost = collections.destinations | getPreviousCollectionItem(page) %}
         {%- if nextPost or previousPost %}
             <hr class="mt-12">
             <nav class="pagination">

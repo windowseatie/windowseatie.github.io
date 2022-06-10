@@ -1,0 +1,9 @@
+{
+  "layout": "destination",
+  "permalink": "/destinations/{{ page.fileSlug }}/",
+  "tags": ["destinations"],
+  "order": 10,
+  "breadcrumbs": {
+    "Destinations": "/destinations/"
+  }
+}
