@@ -18,6 +18,7 @@ style: {
     <div class="mb-8 md-mb-10">
         {% if title %}
             <h1 class="my-0">{{ title }}</h1>
+            <a href="{{reverse}}">Reverse this route</a>
         {% endif %}
         <time datetime="{{ lastUpdated | toISOString }}">
             {{ lastUpdated | formatDate('DD MMMM YYYY') }}

@@ -1,11 +1,12 @@
 ---
-title: "London"
+title: "Ireland to London"
 description: "Ireland to London by Bus / Train & Ferry"
 tags: destinations
 seat61Link: "https://www.seat61.com/train-and-ferry-to-dublin.htm"
 costReturn: "98+"
 timeTaken: "7+h"
 lastUpdated: 2022-10-03
+reverse: london_dublin
 ---
 
 From almost anywhere in the North / East / West of the country, you'll want to make your way to Dublin Port, get the ferry to Holyhead, and then direct train to London.

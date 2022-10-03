@@ -6,6 +6,7 @@ seat61Link: "https://www.seat61.com/train-and-ferry-to-dublin.htm"
 costReturn: "98"
 timeTaken: "7+h"
 lastUpdated: 2022-10-03
+reverse: london
 ---
 
 # Travel Options
