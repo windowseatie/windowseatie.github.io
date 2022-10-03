@@ -41,7 +41,7 @@ The option here is basically only if the Irish Ferries swift service is running,
 ## After Work
 The Sail&Rail options here aren't great, you can get to London Euston for 9am but you'll have a lengthy wait in Holyhead in the middle of the night. Stena Line depart at 20.30 (arriving Holyhead at midnight) and Irish Ferries have a ferry departing Dublin at 20.55 (arriving Holyhead at 00:20), you then have to wait in Holyhead until the 04:25 (weekend) or 4:48 (weekday) train.
 
-The best option for this is the Bus Éireann / Eurolines bus from Dublin to London, leaving Dublin on a Thursday or Saturday at 20:00 and arriving in London Victoria at 08:00 (07:30 on a Sunday) but that has now been cancelled.
+The best option for this is the Bus Éireann / Eurolines bus from Dublin to London, leaving Dublin on a Thursday or Saturday at 20:00 and arriving in London Victoria at 08:00 (07:30 on a Sunday).
 
 # Cost
 The Sail & Rail cost will be €49-€60 each way from Dublin to London, and up to €80 each way from other train stations in Ireland to London. Prices do vary based on distance but they do not do demand pricing so you can book for the same price usually right up to the day of departure.
