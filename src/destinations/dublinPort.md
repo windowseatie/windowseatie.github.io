@@ -5,7 +5,7 @@ tags: destinations
 seat61Link: ""
 cost: "3+"
 timeTaken: "30m+"
-lastUpdated: 2022-06-10
+lastUpdated: 2022-10-03
 ---
 
 Actually getting to/from the ferry in Dublin is not necessarily the most straightforward thing.

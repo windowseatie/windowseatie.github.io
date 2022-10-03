@@ -14,9 +14,9 @@ style: {
 <div id="blog-grid" class="auto-grid">
 {%- for item in collections.destinations -%}
     <a href="{{ item.url }}" class="card">
-        <div class="card-media">
+        {# <div class="card-media">
             {% image "https://placeimg.com/640/480/tech", item.data.title %}
-        </div>
+        </div> #}
         <div class="card-content">
         <h2 class="h5">{{ item.data.title }}</h2>
         <div>{{ item.data.description }}</div>

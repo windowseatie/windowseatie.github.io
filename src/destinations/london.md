@@ -1,17 +1,18 @@
 ---
 title: "London"
-description: "Ireland to the London by Bus / Train & Ferry"
+description: "Ireland to London by Bus / Train & Ferry"
 tags: destinations
 seat61Link: "https://www.seat61.com/train-and-ferry-to-dublin.htm"
-costReturn: "120"
+costReturn: "98+"
 timeTaken: "7+h"
-lastUpdated: 2022-06-10
+lastUpdated: 2022-10-03
 ---
 
 From almost anywhere in the North / East / West of the country, you'll want to make your way to Dublin Port, get the ferry to Holyhead, and then direct train to London.
 
 # Travel Options
-See the ferry times and indicative train times listed in the tables below. Do make sure to double-check the times for your date as they may change. As you'll see below, basically your only option for getting to London without having to wait overnight in train stations is to leave Dublin in the morning. 
+See the ferry times and indicative train times listed in the tables below. Do make sure to double-check the times for your date as they may change. 
+As you'll see below, your best option for getting to London without having to wait overnight in train stations is to leave Dublin in the morning. 
 See the other page [here](/destinations/dublinPort) about getting to or from Dublin Port
 - Check ferry times on [Irish Ferries](https://www.irishferries.com) or [Stena Line](https://booking.stenaline.ie)
 - Check UK train times at [Transport For Wales](https://tickets.trc.cymru/#/ticket-search/)
